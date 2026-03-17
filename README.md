@@ -35,9 +35,7 @@ const roshan = {
 
 ## 🚧 Currently Building
 
-- 🤖 **AI Pull Request Reviewer** — automated code reviews using LLMs
 - 🔍 **AI Codebase Explainer** — understand any GitHub repository instantly
-- 🏗️ **AI System Design Generator** — generate architecture diagrams from prompts
 
 ---
 

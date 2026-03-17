@@ -17,7 +17,7 @@ const roshan = {
   age         : 19,
   location    : "Mangaluru, Karnataka 🇮🇳",
   education   : "Information Science @ 2nd Year (4th Sem)",
-  role        : ["AI Developer", "Full Stack Engineer"],
+  role        : ["AI Developer", "Full-Stack Developer"],
   currentFocus: "Building AI tools that solve real problems",
 
   currentlyBuilding: [
@@ -38,12 +38,20 @@ const roshan = {
 
 ---
 
+## ⚡ Highlights
+
+- Built multiple AI-powered developer tools
+- Deployed full-stack applications using Python & JavaScript
+- Focused on building practical AI tools developers can use
+
+---
+
 ## 🧠 Interests
 
 - AI developer tools
 - LLM-powered developer workflows
 - System design & architecture
-- Building useful developer products
+- Building practical developer tools powered by AI
 
 ---
 
@@ -126,7 +134,7 @@ AI-powered Discord moderation bot that automatically detects and handles toxicit
 <td width="50%">
 
 ### 📊 GitHub Stats Dashboard
-A beautiful GitHub stats dashboard with contribution heatmaps and a shareable Wrapped card — like Spotify Wrapped but for your code.
+A GitHub analytics dashboard with contribution heatmaps, language stats, and a shareable "Wrapped" card — like Spotify Wrapped for your code.
 
 **Stack:** JavaScript · Vite · GitHub API · Chart.js
 
@@ -151,6 +159,12 @@ A beautiful GitHub stats dashboard with contribution heatmaps and a shareable Wr
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=roshan-kamath&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=roshan-kamath&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 

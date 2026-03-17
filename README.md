@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+AI+tools+that+actually+work.;19+y%2Fo+%7C+Information+Science+%7C+2nd+Year)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=roshan-kamath&color=0e75b6&style=flat)
+
 </div>
 
 ---
@@ -28,6 +30,14 @@ const roshan = {
   funFact     : "I shipped a full AI product at 4AM during my 4th semester 🚀"
 };
 ```
+
+---
+
+## 🚧 Currently Building
+
+- 🤖 **AI Pull Request Reviewer** — automated code reviews using LLMs
+- 🔍 **AI Codebase Explainer** — understand any GitHub repository instantly
+- 🏗️ **AI System Design Generator** — generate architecture diagrams from prompts
 
 ---
 
@@ -134,13 +144,24 @@ A beautiful GitHub stats dashboard with contribution heatmaps and a shareable Wr
 
 ---
 
-## 💭 Random Dev Quote
+## 📚 Currently Exploring
 
-<div align="center">
+- Large Language Models & AI developer tools
+- Building AI-powered developer workflows
+- System design and scalable architectures
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-</div>
+## 🤝 Open to Collaborate
+
+I'm interested in collaborating on:
+
+- AI developer tools
+- Open-source automation projects
+- Developer productivity tools
+- Interesting AI experiments
+
+If you're building something cool, feel free to reach out.
 
 ---
 

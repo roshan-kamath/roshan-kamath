@@ -162,12 +162,6 @@ A GitHub analytics dashboard with contribution heatmaps, language stats, and a s
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=roshan-kamath&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
 ---
 
 ## 📚 Currently Exploring

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Roshan%20Kamath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Roshan%20Kamath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+AI+tools+that+actually+work.;19+y%2Fo+%7C+Information+Science+%7C+2nd+Year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+AI+tools+that+solve+real+developer+problems.;19+y%2Fo+%7C+Information+Science+%7C+2nd+Year)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=roshan-kamath&color=0e75b6&style=flat)
 
@@ -27,7 +27,7 @@ const roshan = {
   databases   : ["MongoDB", "PostgreSQL"],
   tools       : ["Git", "Vercel", "Railway", "Docker"],
 
-  funFact     : "I shipped a full AI product at 4AM during my 4th semester 🚀"
+  funFact : "Most of my learning happens by building real projects 🚀."
 };
 ```
 
@@ -39,7 +39,7 @@ const roshan = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools I Use
 
 **Frontend**
 
@@ -88,7 +88,7 @@ AI-powered resume scorer that matches your resume against job descriptions, dete
 </td>
 <td width="50%">
 
-### 🏗️ ArchGen AI — System Design Visualizer
+### 🏗️ ArchGen AI — System Design Generator
 Describe any system in plain English and instantly get a full architecture diagram + technical breakdown. Powered by Gemini 2.5 Flash.
 
 **Stack:** React · Vite · Gemini API · Mermaid.js

@@ -19,7 +19,12 @@ const roshan = {
   education   : "Information Science @ 2nd Year (4th Sem)",
   role        : ["AI Developer", "Full Stack Engineer"],
   currentFocus: "Building AI tools that solve real problems",
-  
+
+  currentlyBuilding: [
+    "AI developer tools",
+    "LLM-powered code assistants"
+  ],
+
   languages   : ["Python", "JavaScript", "TypeScript", "SQL"],
   frontend    : ["React", "Vite", "HTML/CSS"],
   backend     : ["Flask", "Node.js", "Express"],
@@ -27,9 +32,18 @@ const roshan = {
   databases   : ["MongoDB", "PostgreSQL"],
   tools       : ["Git", "Vercel", "Railway", "Docker"],
 
-  funFact : "Most of my learning happens by building real projects 🚀."
+  funFact     : "Most of my learning happens by building real projects 🚀"
 };
 ```
+
+---
+
+## 🧠 Interests
+
+- AI developer tools
+- LLM-powered developer workflows
+- System design & architecture
+- Building useful developer products
 
 ---
 
@@ -160,6 +174,12 @@ I'm interested in collaborating on:
 - Interesting AI experiments
 
 If you're building something cool, feel free to reach out.
+
+---
+
+## 📊 Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshan-kamath&theme=tokyo-night&hide_border=true)
 
 ---
 

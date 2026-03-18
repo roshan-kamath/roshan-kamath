@@ -17,7 +17,7 @@ const roshan = {
   age         : 19,
   location    : "Mangaluru, Karnataka 🇮🇳",
   education   : "Information Science @ 2nd Year (4th Sem)",
-  role        : ["AI Developer", "Full-Stack Developer"],
+  role        : ["AI tools Developer", "Full-Stack Developer"],
   currentFocus: "Building AI tools that solve real problems",
 
   currentlyBuilding: [

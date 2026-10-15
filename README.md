@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Roshan%20Kamath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+AI+tools+that+solve+real+developer+problems.;19+y%2Fo+%7C+Information+Science+%7C+2nd+Year)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Building+AI+tools+that+solve+real+developer+problems.;20+y%2Fo+%7C+Information+Science+%7C+2nd+Year)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=roshan-kamath&color=0e75b6&style=flat)
 

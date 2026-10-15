@@ -14,7 +14,7 @@
 
 ```typescript
 const roshan = {
-  age         : 19,
+  age         : 20,
   location    : "Mangaluru, Karnataka 🇮🇳",
   education   : "Information Science @ 2nd Year (4th Sem)",
   role        : ["AI Developer", "Full-Stack Developer"],
